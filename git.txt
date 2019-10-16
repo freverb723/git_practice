@@ -1,0 +1,9 @@
+git init <-- first time to creat the folder
+
+git add .
+
+git commit -m "Your message"
+
+git remote add origin <url>  <--first time to upload
+
+git push -u origin master
